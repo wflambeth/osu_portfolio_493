@@ -1,0 +1,4 @@
+runtime: go119
+
+env_variables:
+  PROJECT_ID: "final-493-wfl"
